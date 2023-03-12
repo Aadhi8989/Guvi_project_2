@@ -1,0 +1,1849 @@
+1676556981736	geckodriver	INFO	Listening on 127.0.0.1:21568
+1676556984783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "21569" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile1LNzWo"
+1676556985711	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676556985722	Marionette	INFO	Listening on port 21576
+Read port: 21576
+WebDriver BiDi listening on ws://127.0.0.1:21569
+1676556986020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile1LNzWo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:21569/devtools/browser/0ce7aa4c-1ba0-4d1f-b51d-704d5359c065
+1676557173373	geckodriver	INFO	Listening on 127.0.0.1:21654
+1676557176410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "21655" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile158Ogi"
+1676557176886	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676557176896	Marionette	INFO	Listening on port 21663
+Read port: 21663
+WebDriver BiDi listening on ws://127.0.0.1:21655
+1676557177175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile158Ogi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:21655/devtools/browser/c97e3ac8-d7ee-451a-b42e-d729d2ab2763
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1676557383149	geckodriver	INFO	Listening on 127.0.0.1:21783
+1676557386207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "21784" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile5WmjWP"
+1676557386773	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676557386780	Marionette	INFO	Listening on port 21791
+Read port: 21791
+WebDriver BiDi listening on ws://127.0.0.1:21784
+1676557387102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile5WmjWP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:21784/devtools/browser/d4e4da4f-fa14-4b69-9a1a-80ef21129014
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 572))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450952/pagestyle25 (resource://devtools/server/actors/page-style.js:572:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 572))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450952/pagestyle25 (resource://devtools/server/actors/page-style.js:572:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 358))
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 358))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 369))
+console.error: "Could not get the list of font families" (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450952/pagestyle25 (resource://devtools/server/actors/page-style.js:369:24)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 369))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: "Could not get the list of font families" (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450952/pagestyle25 (resource://devtools/server/actors/page-style.js:369:24)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+1676615713082	geckodriver	INFO	Listening on 127.0.0.1:57719
+1676615716088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57720" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileCXpG42"
+1676615717058	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676615717069	Marionette	INFO	Listening on port 57727
+Read port: 57727
+WebDriver BiDi listening on ws://127.0.0.1:57720
+1676615717428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileCXpG42\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57720/devtools/browser/6060a2d9-a530-47c7-9022-bd018acb2d05
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:57795
+1676615785882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57796" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileC9S7qf"
+1676615786448	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676615786456	Marionette	INFO	Listening on port 57803
+Read port: 57803
+WebDriver BiDi listening on ws://127.0.0.1:57796
+1676615786794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileC9S7qf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57796/devtools/browser/1e2d8cd8-2a00-4a43-8436-8db5cf4480f5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:57886
+1676615902173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileatKTa2"
+1676615902753	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676615902763	Marionette	INFO	Listening on port 57895
+Read port: 57895
+WebDriver BiDi listening on ws://127.0.0.1:57887
+1676615903067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileatKTa2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57887/devtools/browser/75160292-9dab-47be-885f-5187ee1cf3e1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676616318992	Marionette	INFO	Stopped listening on port 57895
+Dynamically enable window occlusion 1
+ow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile9FiBHz"
+1676615996509	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676615996518	Marionette	INFO	Listening on port 57987
+Read port: 57987
+WebDriver BiDi listening on ws://127.0.0.1:57976
+1676615996849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile9FiBHz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57976/devtools/browser/5ef77c05-7c54-4e0b-9564-fe70d9271cc0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1672659722816, line 1: TypeError: e.scrollIntoView is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676616319958	Marionette	INFO	Stopped listening on port 57987
+Dynamically enable window occlusion 1
+ow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileMHFwSk"
+1676616258842	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676616258864	Marionette	INFO	Listening on port 58184
+Read port: 58184
+WebDriver BiDi listening on ws://127.0.0.1:58177
+1676616259196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileMHFwSk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58177/devtools/browser/77ccd4e6-8f96-44f7-8df9-96b4b07540d1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1676616320976	Marionette	INFO	Stopped listening on port 58184
+Dynamically enable window occlusion 1
+1676616354692	geckodriver	INFO	Listening on 127.0.0.1:58294
+1676616357734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileuOpudD"
+1676616358260	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676616358268	Marionette	INFO	Listening on port 58302
+Read port: 58302
+WebDriver BiDi listening on ws://127.0.0.1:58295
+1676616358574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileuOpudD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58295/devtools/browser/482c6561-70a8-4c28-b102-5b566f5ad6c1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:58708
+1676616844371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilekXvzDZ"
+1676616844922	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676616844935	Marionette	INFO	Listening on port 58722
+Read port: 58722
+WebDriver BiDi listening on ws://127.0.0.1:58709
+1676616845253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilekXvzDZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58709/devtools/browser/2cf739d4-113c-4750-b908-87f53ee11087
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676623521561	Marionette	INFO	Stopped listening on port 58722
+Dynamically enable window occlusion 1
+ow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile6uGCRN"
+1676623168561	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676623168569	Marionette	INFO	Listening on port 61128
+Read port: 61128
+WebDriver BiDi listening on ws://127.0.0.1:61119
+1676623168847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile6uGCRN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61119/devtools/browser/6bbaa01c-7aad-4fd6-ad0e-1ac0260e3075
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1676650178347	geckodriver	INFO	Listening on 127.0.0.1:20276
+1676650181389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "20277" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilex2CYFv"
+1676650182085	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676650182101	Marionette	INFO	Listening on port 20284
+Read port: 20284
+WebDriver BiDi listening on ws://127.0.0.1:20277
+1676650182523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilex2CYFv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:20277/devtools/browser/cb3c9284-223a-4791-9022-5b821b625641
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1676786188790	geckodriver	INFO	Listening on 127.0.0.1:57213
+1676786191847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57214" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileexU1gg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676786192823	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676786192833	Marionette	INFO	Listening on port 57221
+Read port: 57221
+WebDriver BiDi listening on ws://127.0.0.1:57214
+1676786193132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileexU1gg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57214/devtools/browser/67b4adb7-8dc8-4201-bc1f-3ccea91c4b7f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1676786222902	Marionette	INFO	Stopped listening on port 57221
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1676786879124	geckodriver	INFO	Listening on 127.0.0.1:57802
+1676786882123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57803" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileeljClt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676786883022	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676786883035	Marionette	INFO	Listening on port 57810
+Read port: 57810
+WebDriver BiDi listening on ws://127.0.0.1:57803
+1676786883384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileeljClt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57803/devtools/browser/90fd7538-0ff0-4549-b4a6-9dbfafe16bbb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1676786948884	geckodriver	INFO	Listening on 127.0.0.1:57907
+1676786951919	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57908" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileI06pbj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676786952435	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676786952444	Marionette	INFO	Listening on port 57915
+Read port: 57915
+WebDriver BiDi listening on ws://127.0.0.1:57908
+1676786952736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileI06pbj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57908/devtools/browser/4fd23497-e2e4-45b9-811b-5c7774dc3337
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1676786983148	Marionette	INFO	Stopped listening on port 57915
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1678337622205	geckodriver	INFO	Listening on 127.0.0.1:17636
+1678337624863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "17637" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileYBfZde"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678337625836	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678337625843	Marionette	INFO	Listening on port 17644
+Read port: 17644
+WebDriver BiDi listening on ws://127.0.0.1:17637
+1678337626169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileYBfZde\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:17637/devtools/browser/8fab43d7-136f-4154-b7dd-240aba7fc784
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://www.browserstack.com/guide/chrome-extensions-to-find-xpath-in-selenium, line 25: ReferenceError: Sentry is not defined
+JavaScript error: https://www.browserstack.com/guide/chrome-extensions-to-find-xpath-in-selenium#toc0, line 25: ReferenceError: Sentry is not defined
+JavaScript error: https://www.browserstack.com/guide/chrome-extensions-to-find-xpath-in-selenium#toc1, line 25: ReferenceError: Sentry is not defined
+JavaScript error: https://www.browserstack.com/guide/chrome-extensions-to-find-xpath-in-selenium#toc2, line 25: ReferenceError: Sentry is not defined
+JavaScript error: https://www.browserstack.com/guide/chrome-extensions-to-find-xpath-in-selenium#toc3, line 25: ReferenceError: Sentry is not defined
+JavaScript error: https://www.browserstack.com/guide/chrome-extensions-to-find-xpath-in-selenium#toc6, line 25: ReferenceError: Sentry is not defined
+JavaScript warning: https://www.youtube.com/s/player/21246a91/player_ias.vflset/en_US/base.js, line 10225: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/player/21246a91/player_ias.vflset/en_US/base.js, line 10225: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678346952929	Marionette	INFO	Stopped listening on port 17926
+Dynamically enable window occlusion 1
+ateMachine #1] WARNING: 21d4c85a9a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 8792, MediaDecoderStateMachine #1] WARNING: 21d475e1350 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678346954469	Marionette	INFO	Stopped listening on port 17644
+Dynamically enable window occlusion 1
+[Parent 23500, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:583
+[Parent 23500, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:583
+[Parent 23500, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:583
+ port: 18246
+WebDriver BiDi listening on ws://127.0.0.1:18237
+1678338396538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileaJEo0h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:18237/devtools/browser/59e96200-b0ab-44aa-910a-a497c0bc1463
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1678346950711	Marionette	INFO	Stopped listening on port 18246
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "18438" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile4sTAsB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678338547148	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678338547157	Marionette	INFO	Listening on port 18445
+Read port: 18445
+WebDriver BiDi listening on ws://127.0.0.1:18438
+1678338547439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile4sTAsB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:18438/devtools/browser/5855bab5-73ca-4ff8-a7bb-3bc8f7d3feec
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1678346951651	Marionette	INFO	Stopped listening on port 18445
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "18602" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile7SJ1r7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678338938932	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678338938944	Marionette	INFO	Listening on port 18611
+Read port: 18611
+WebDriver BiDi listening on ws://127.0.0.1:18602
+1678338939207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile7SJ1r7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:18602/devtools/browser/17d0fd47-8384-44b2-96aa-f29316c1831a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1678346955212	Marionette	INFO	Stopped listening on port 18611
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "18703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilesuzKy4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678339047136	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678339047142	Marionette	INFO	Listening on port 18712
+Read port: 18712
+WebDriver BiDi listening on ws://127.0.0.1:18703
+1678339047399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilesuzKy4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:18703/devtools/browser/6f6988d0-da77-4298-adb4-cad341606675
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678346956140	Marionette	INFO	Stopped listening on port 18712
+Dynamically enable window occlusion 1
+\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilej3mw6A"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678339181323	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678339181335	Marionette	INFO	Listening on port 18837
+Read port: 18837
+WebDriver BiDi listening on ws://127.0.0.1:18830
+1678339181596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilej3mw6A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:18830/devtools/browser/11644202-dd95-485d-ae96-e71817c60c31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678346956781	Marionette	INFO	Stopped listening on port 18837
+Dynamically enable window occlusion 1
+\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilefS8sFv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678339284052	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678339284061	Marionette	INFO	Listening on port 18929
+Read port: 18929
+WebDriver BiDi listening on ws://127.0.0.1:18921
+1678339284329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilefS8sFv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:18921/devtools/browser/64e9db2a-a740-4de5-8485-ca71c7eeb453
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678346957662	Marionette	INFO	Stopped listening on port 18929
+Dynamically enable window occlusion 1
+\\aadhi\\AppData\\Local\\Temp\\rust_mozprofiletGPjpu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678339367226	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678339367235	Marionette	INFO	Listening on port 19009
+Read port: 19009
+WebDriver BiDi listening on ws://127.0.0.1:19002
+1678339367505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofiletGPjpu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:19002/devtools/browser/fd4cc29a-875b-4636-883a-6a871cdab25e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1678346960758	Marionette	INFO	Stopped listening on port 19009
+Dynamically enable window occlusion 1
+1678346967485	geckodriver	INFO	Listening on 127.0.0.1:20974
+1678346970406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "20975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileCNa4Pi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678346971389	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678346971398	Marionette	INFO	Listening on port 20983
+Read port: 20983
+WebDriver BiDi listening on ws://127.0.0.1:20975
+1678346972086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileCNa4Pi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:20975/devtools/browser/6a811f7a-80c1-453c-bc4e-3355f155ff6d
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1678368970032	Marionette	INFO	Stopped listening on port 20983
+Dynamically enable window occlusion 1
+1678421451093	geckodriver	INFO	Listening on 127.0.0.1:9530
+1678421454091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilekD1DPX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678421455036	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678421455068	Marionette	INFO	Listening on port 9595
+Read port: 9595
+WebDriver BiDi listening on ws://127.0.0.1:9531
+1678421455385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilekD1DPX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:9531/devtools/browser/82295655-0654-44dd-89a2-27d12cfdf377
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1678423077684	Marionette	INFO	Stopped listening on port 9595
+Dynamically enable window occlusion 1
+ing command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "24376" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileThm5Sk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678422747940	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678422747949	Marionette	INFO	Listening on port 24537
+Read port: 24537
+WebDriver BiDi listening on ws://127.0.0.1:24376
+1678422748206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileThm5Sk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:24376/devtools/browser/e00ad082-4696-496e-b00e-959913b71d41
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678423071950	Marionette	INFO	Stopped listening on port 24537
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile7EhC20"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678422798928	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678422798936	Marionette	INFO	Listening on port 25120
+Read port: 25120
+WebDriver BiDi listening on ws://127.0.0.1:25100
+1678422799237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile7EhC20\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:25100/devtools/browser/6dcb1e24-339d-4415-b8a8-6889eab4ca55
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1678423072844	Marionette	INFO	Stopped listening on port 25120
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "25838" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileVH3RAi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678422861920	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678422861927	Marionette	INFO	Listening on port 25871
+Read port: 25871
+WebDriver BiDi listening on ws://127.0.0.1:25838
+1678422862178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileVH3RAi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:25838/devtools/browser/8e79840d-ffb5-40f8-a29a-2db1769e1449
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1678423073578	Marionette	INFO	Stopped listening on port 25871
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "26630" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile3cbRMd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678422927111	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678422927118	Marionette	INFO	Listening on port 26677
+Read port: 26677
+WebDriver BiDi listening on ws://127.0.0.1:26630
+1678422927365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile3cbRMd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:26630/devtools/browser/a7c06d89-5b1f-48d0-b675-d4ca63882f7f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1678423074479	Marionette	INFO	Stopped listening on port 26677
+Dynamically enable window occlusion 1
+1678423084336	geckodriver	INFO	Listening on 127.0.0.1:28453
+1678423087247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "28454" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilejlS0jM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678423087701	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678423087707	Marionette	INFO	Listening on port 28478
+Read port: 28478
+WebDriver BiDi listening on ws://127.0.0.1:28454
+1678423087982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilejlS0jM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:28454/devtools/browser/d7330ad3-c9b8-4b2f-bde1-ca8405302ba5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1678423166919	geckodriver	INFO	Listening on 127.0.0.1:29501
+1678423169942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29502" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileP5zDSP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678423170401	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678423170409	Marionette	INFO	Listening on port 29530
+Read port: 29530
+WebDriver BiDi listening on ws://127.0.0.1:29502
+1678423170659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileP5zDSP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:29502/devtools/browser/267c8fe8-e5e5-4a4e-a5d4-df6803a3cce4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1678423242798	geckodriver	INFO	Listening on 127.0.0.1:30348
+1678423245892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "30349" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofiletijhm8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678423246319	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678423246325	Marionette	INFO	Listening on port 30425
+Read port: 30425
+WebDriver BiDi listening on ws://127.0.0.1:30349
+1678423246594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofiletijhm8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:30349/devtools/browser/464213f2-3603-4ab5-b4a0-5044b7c2f9d1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678423874408	Marionette	INFO	Stopped listening on port 30425
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile5cfwT8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678423307373	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678423307382	Marionette	INFO	Listening on port 31110
+Read port: 31110
+WebDriver BiDi listening on ws://127.0.0.1:31042
+1678423307654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile5cfwT8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:31042/devtools/browser/8969875e-67d4-43fb-9778-2940ce164107
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1678423877487	Marionette	INFO	Stopped listening on port 31110
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "32435" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileae5VCw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678423427710	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678423427720	Marionette	INFO	Listening on port 32453
+Read port: 32453
+WebDriver BiDi listening on ws://127.0.0.1:32435
+1678423428038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileae5VCw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:32435/devtools/browser/e6a11bd0-1865-41e3-97cd-a4c8fea7a106
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678423875566	Marionette	INFO	Stopped listening on port 32453
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilegkJieA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678423520824	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678423520833	Marionette	INFO	Listening on port 33578
+Read port: 33578
+WebDriver BiDi listening on ws://127.0.0.1:33546
+1678423521174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilegkJieA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33546/devtools/browser/77335ddb-724f-484b-b5c8-55ae6a6b5bb5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678423876478	Marionette	INFO	Stopped listening on port 33578
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileB7ETMr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678423611836	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678423611842	Marionette	INFO	Listening on port 34652
+Read port: 34652
+WebDriver BiDi listening on ws://127.0.0.1:34637
+1678423612161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileB7ETMr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34637/devtools/browser/48e621c6-c929-427e-8f6e-c468826ea91b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1678423880094	Marionette	INFO	Stopped listening on port 34652
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "36086" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileZEtLwM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678423735243	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678423735252	Marionette	INFO	Listening on port 36113
+Read port: 36113
+WebDriver BiDi listening on ws://127.0.0.1:36086
+1678423735509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileZEtLwM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36086/devtools/browser/d8b21634-6744-4d53-a40d-1b68183e275f
+[Parent 10916, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1678423880843	Marionette	INFO	Stopped listening on port 36113
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "37086" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileN7NevH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678423820816	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678423820825	Marionette	INFO	Listening on port 37104
+Read port: 37104
+WebDriver BiDi listening on ws://127.0.0.1:37086
+1678423821174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileN7NevH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37086/devtools/browser/2a367b9c-f930-4431-b55b-95be78980814
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1678423872879	geckodriver	INFO	Listening on 127.0.0.1:37705
+1678423875884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "37706" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilehj29PC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678423876998	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678423877009	Marionette	INFO	Listening on port 37857
+Read port: 37857
+WebDriver BiDi listening on ws://127.0.0.1:37706
+1678423877406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilehj29PC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37706/devtools/browser/1be3f6e6-6e58-4b7c-9d45-2924b9532123
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1678424200502	geckodriver	INFO	Listening on 127.0.0.1:41469
+1678424203560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "41470" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile2DdzI3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678424203989	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678424203997	Marionette	INFO	Listening on port 41482
+Read port: 41482
+WebDriver BiDi listening on ws://127.0.0.1:41470
+1678424204279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile2DdzI3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41470/devtools/browser/eaf63920-6f40-42e3-aeb6-41f9eec4345a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1678425371558	Marionette	INFO	Stopped listening on port 41482
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "42853" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile6GDtQs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678424323682	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678424323688	Marionette	INFO	Listening on port 42916
+Read port: 42916
+WebDriver BiDi listening on ws://127.0.0.1:42853
+1678424323942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile6GDtQs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42853/devtools/browser/4c846359-6daf-4e62-bb1c-af01f57673a8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1678425372455	Marionette	INFO	Stopped listening on port 42916
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "44485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilenqAGLd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678424460571	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678424460579	Marionette	INFO	Listening on port 44500
+Read port: 44500
+WebDriver BiDi listening on ws://127.0.0.1:44485
+1678424460871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilenqAGLd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44485/devtools/browser/894d64f1-9d31-4b18-acc2-ad53059c1fdd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1678425373106	Marionette	INFO	Stopped listening on port 44500
+Dynamically enable window occlusion 1
+[Parent 5912, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+ole.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678424732822	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678424732830	Marionette	INFO	Listening on port 47698
+Read port: 47698
+WebDriver BiDi listening on ws://127.0.0.1:47668
+1678424733104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilez0dBIe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47668/devtools/browser/3c5b9af4-a2e4-4d13-8619-45f7411563ca
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1678425373758	Marionette	INFO	Stopped listening on port 47698
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilea0qect"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678425242149	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678425242157	Marionette	INFO	Listening on port 53620
+Read port: 53620
+WebDriver BiDi listening on ws://127.0.0.1:53595
+1678425242461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilea0qect\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53595/devtools/browser/3da2c65f-771c-433c-ba67-b34254611e66
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1678426037418	geckodriver	INFO	Listening on 127.0.0.1:62618
+1678426040429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileEzuSgy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678426040864	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678426040870	Marionette	INFO	Listening on port 62692
+Read port: 62692
+WebDriver BiDi listening on ws://127.0.0.1:62619
+1678426041122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileEzuSgy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62619/devtools/browser/c08956a4-9c83-439b-aacf-5cbe5b1749b2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.error: "Unable to find target with innerWindowId:6442450946"
+console.error: "Unable to find target with innerWindowId:6442450946"
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+zprofileUSwYvw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678426597872	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678426597878	Marionette	INFO	Listening on port 4476
+Read port: 4476
+WebDriver BiDi listening on ws://127.0.0.1:4466
+1678426598126	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileUSwYvw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:4466/devtools/browser/a70bbc2e-758c-49cc-b357-579a678b518f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 572))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450948/pagestyle22 (resource://devtools/server/actors/page-style.js:572:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:11493
+1678427210404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11494" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilekYH8pb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678427210848	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678427210856	Marionette	INFO	Listening on port 11557
+Read port: 11557
+WebDriver BiDi listening on ws://127.0.0.1:11494
+1678427211128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilekYH8pb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:11494/devtools/browser/cadb4533-60e0-4220-8897-ab62e1456f5d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+t_mozprofilecn97HJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678427307284	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678427307291	Marionette	INFO	Listening on port 12786
+Read port: 12786
+WebDriver BiDi listening on ws://127.0.0.1:12757
+1678427307565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilecn97HJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:12757/devtools/browser/7c176f89-b0e6-4586-b971-f91f97b576de
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+1678428240138	geckodriver	INFO	Listening on 127.0.0.1:23696
+1678428243143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "23697" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilerJgMEI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678428243874	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678428243886	Marionette	INFO	Listening on port 23796
+Read port: 23796
+WebDriver BiDi listening on ws://127.0.0.1:23697
+1678428244202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilerJgMEI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:23697/devtools/browser/7200885f-9c3c-4e18-a0c7-b68c23a9ddd6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: "stylesheets: fetch failed for https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?1672659722816, using system principal instead."
+console.error: "stylesheets: fetch failed for https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?1672659722816, using system principal instead."
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450949/pagestyle22, type isPositionEditable failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:195:50\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450949/pagestyle22, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nonReflowInSelection@resource://devtools/client/inspector/inspector.js:1618:10\n_notifyWatchers@resource://devtools/shared/commands/resource/resource-command.js:872:24\nthrottledFunction@resource://devtools/shared/throttle.js:45:21\n_onResourceAvailable@resource://devtools/shared/commands/resource/resource-command.js:717:12\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nonPacket@resource://devtools/shared/protocol/Front.js:349:13\nonPacket@resource://devtools/client/devtools-client.js:488:13\nsend/<@resource://devtools/shared/transport/local-transport.js:67:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450949/pagestyle22, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:187:44\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450949/pagestyle22, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:187:44\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'isPositionEditable' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.m1678457696892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "45647" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilePSKUHd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678457698417	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678457698435	Marionette	INFO	Listening on port 45801
+Read port: 45801
+WebDriver BiDi listening on ws://127.0.0.1:45647
+1678457698820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilePSKUHd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45647/devtools/browser/32901ca1-ecf0-4ba7-bc03-e42b6da67577
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.error: "Unable to find target with innerWindowId:6442450946"
+console.error: "Unable to find target with innerWindowId:6442450946"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1678458655699	geckodriver	INFO	Listening on 127.0.0.1:56215
+1678458658699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56216" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileSwfEyj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678458659176	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678458659185	Marionette	INFO	Listening on port 56254
+Read port: 56254
+WebDriver BiDi listening on ws://127.0.0.1:56216
+1678458659458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileSwfEyj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56216/devtools/browser/50947115-b59a-419e-8806-f09ade26c98b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678459090455	Marionette	INFO	Stopped listening on port 56254
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile4SsQ89"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678458749649	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678458749658	Marionette	INFO	Listening on port 57312
+Read port: 57312
+WebDriver BiDi listening on ws://127.0.0.1:57257
+1678458749927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile4SsQ89\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57257/devtools/browser/78951290-23b5-48a4-8b00-61b951931976
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1678459091051	Marionette	INFO	Stopped listening on port 57312
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58444" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileGTs3KL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678458860640	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678458860646	Marionette	INFO	Listening on port 58471
+Read port: 58471
+WebDriver BiDi listening on ws://127.0.0.1:58444
+1678458860906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileGTs3KL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58444/devtools/browser/f25bea4a-0fbd-4304-8597-7febb038656c
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1678459092280	Marionette	INFO	Stopped listening on port 58471
+Dynamically enable window occlusion 1
+1678459096245	geckodriver	INFO	Listening on 127.0.0.1:61097
+1678459099198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61098" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilez2Vqse"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678459099813	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678459099820	Marionette	INFO	Listening on port 61106
+Read port: 61106
+WebDriver BiDi listening on ws://127.0.0.1:61098
+1678459100094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilez2Vqse\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61098/devtools/browser/f913216a-f93f-47eb-86fe-654e63015b97
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1678459232995	geckodriver	INFO	Listening on 127.0.0.1:62599
+1678459236027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62600" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileyN3ZJ1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678459236467	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678459236473	Marionette	INFO	Listening on port 62704
+Read port: 62704
+WebDriver BiDi listening on ws://127.0.0.1:62600
+1678459236729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileyN3ZJ1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62600/devtools/browser/d5b7028f-28a5-4c32-9b4b-e5b85762d210
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1678459297981	geckodriver	INFO	Listening on 127.0.0.1:63392
+1678459301004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63393" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilerX8Zs2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678459301454	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678459301461	Marionette	INFO	Listening on port 63450
+Read port: 63450
+WebDriver BiDi listening on ws://127.0.0.1:63393
+1678459301711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilerX8Zs2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63393/devtools/browser/d1a50dd3-d3a5-484a-b98f-ff1e808ed31f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1678459375022	geckodriver	INFO	Listening on 127.0.0.1:64328
+1678459378064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilexoMhG4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678459378805	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678459378812	Marionette	INFO	Listening on port 64336
+Read port: 64336
+WebDriver BiDi listening on ws://127.0.0.1:64329
+1678459379079	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilexoMhG4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64329/devtools/browser/595f06ec-04cb-47b6-8edb-62df3dc02d10
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1678511858006	geckodriver	INFO	Listening on 127.0.0.1:57582
+1678511861035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57583" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileGj4W9T"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678511862118	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678511862125	Marionette	INFO	Listening on port 57590
+Read port: 57590
+WebDriver BiDi listening on ws://127.0.0.1:57583
+1678511862371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileGj4W9T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57583/devtools/browser/14688c92-c4d2-4eb1-a504-3d2c44d1423c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.error: "Unable to find target with innerWindowId:6442450959"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+Extension error: TypeError: a is not a function moz-extension://35017253-8045-4b95-811e-d659602d1e58/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://35017253-8045-4b95-811e-d659602d1e58/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+console.log: "Already loaded reducer: extensionsSidebar"
+console.log: "Already loaded reducer: objectInspector"
+Extension error: TypeError: a is not a function moz-extension://35017253-8045-4b95-811e-d659602d1e58/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://35017253-8045-4b95-811e-d659602d1e58/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+JavaScript error: resource://devtools/server/actors/inspector/event-collector.js, line 276: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/inspector/event-collector.js, line 276: TypeError: can't access dead object
+JavaScript error: moz-extension://35017253-8045-4b95-811e-d659602d1e58/extension/popup.js, line 4: TypeError: document.querySelector(...) is null
+JavaScript error: moz-extension://35017253-8045-4b95-811e-d659602d1e58/extension/script.js, line 2: ReferenceError: $ is not defined
+console.error: "Error while calling actor 'watcher's method 'watchResources'" "An attempt was made to use an object that is not, or is no longer, usable"
+console.error: (new InvalidStateError("An attempt was made to use an object that is not, or is no longer, usable", (void 0), 101))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/client/inspector/inspector.js, line 1382: TypeError: this.panelDoc is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+Extension error: TypeError: browserType.extension.sendMessage is not a function moz-extension://35017253-8045-4b95-811e-d659602d1e58/devtools-panel/devtools.js 1
+[[Exception stack
+openedTab@moz-extension://35017253-8045-4b95-811e-d659602d1e58/devtools-panel/devtools.js:1:422
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2544:39
+]]
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.sys.mjs:23:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.sys.mjs:43:19
+loadURI@resource://gre/modules/RemoteWebNavigation.jsm:84:56
+loadURI/<@chrome://global/content/elements/browser-custom-element.js:826:28
+_wrapURIChangeCall@chrome://global/content/elements/browser-custom-element.js:751:9
+loadURI@chrome://global/content/elements/browser-custom-element.js:825:12
+createBrowserElement@chrome://browser/content/parent/ext-devtools-panels.js:88:18
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.sys.mjs:23:11
+contentAreaClick@resource:///actors/ClickHandlerParent.sys.mjs:98:38
+receiveMessage@resource:///actors/ClickHandlerParent.sys.mjs:63:14
+JavaScript error: moz-extension://35017253-8045-4b95-811e-d659602d1e58/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://35017253-8045-4b95-811e-d659602d1e58/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://35017253-8045-4b95-811e-d659602d1e58/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://35017253-8045-4b95-811e-d659602d1e58/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://35017253-8045-4b95-811e-d659602d1e58/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://35017253-8045-4b95-811e-d659602d1e58/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://35017253-8045-4b95-811e-d659602d1e58/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://35017253-8045-4b95-811e-d659602d1e58/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://35017253-8045-4b95-811e-d659602d1e58/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://35017253-8045-4b95-811e-d659602d1e58/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://35017253-8045-4b95-811e-d659602d1e58/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://35017253-8045-4b95-811e-d659602d1e58/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://35017253-8045-4b95-811e-d659602d1e58/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://35017253-8045-4b95-811e-d659602d1e58/content-script/contentScript.js, line 175: SyntaxError: Document.evaluate: The expression is not a legal expression
+JavaScript error: moz-extension://35017253-8045-4b95-811e-d659602d1e58/content-script/contentScript.js, line 175: SyntaxError: Document.evaluate: The expression is not a legal expression
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: moz-extension://35017253-8045-4b95-811e-d659602d1e58/content-script/contentScript.js, line 175: SyntaxError: Document.evaluate: The expression is not a legal expression
+1678513896043	geckodriver	INFO	Listening on 127.0.0.1:57973
+1678513899060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57974" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileIHLhXJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678513899536	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678513899543	Marionette	INFO	Listening on port 57985
+Read port: 57985
+WebDriver BiDi listening on ws://127.0.0.1:57974
+1678513899800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileIHLhXJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57974/devtools/browser/466ce348-374b-48cd-be5e-2b7f68c0c201
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1678514493800	Marionette	INFO	Stopped listening on port 57985
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58066" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilegVfV41"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678513982423	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678513982432	Marionette	INFO	Listening on port 58076
+Read port: 58076
+WebDriver BiDi listening on ws://127.0.0.1:58066
+1678513982942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilegVfV41\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58066/devtools/browser/0153f02f-5473-463a-8b15-6b9f093ab27d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1678514496036	Marionette	INFO	Stopped listening on port 58076
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58143" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilecB7EEU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678514091585	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678514091591	Marionette	INFO	Listening on port 58150
+Read port: 58150
+WebDriver BiDi listening on ws://127.0.0.1:58143
+1678514091863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilecB7EEU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58143/devtools/browser/d8af952e-e875-463d-a87d-91342c0cfd7c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Extension error: TypeError: a is not a function moz-extension://bf52cf95-9bd9-467d-9725-f0edf7131186/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://bf52cf95-9bd9-467d-9725-f0edf7131186/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+console.log: "Already loaded reducer: extensionsSidebar"
+console.log: "Already loaded reducer: objectInspector"
+Extension error: TypeError: a is not a function moz-extension://bf52cf95-9bd9-467d-9725-f0edf7131186/extension/background.js 21
+[[Exception stack
+createContextMenu/<@moz-extension://bf52cf95-9bd9-467d-9725-f0edf7131186/extension/background.js:21:1
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+applySafe@resource://gre/modules/ExtensionCommon.jsm:610:19
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:813:22
+]]
+JavaScript error: resource://devtools/server/actors/inspector/event-collector.js, line 276: TypeError: can't access dead object
+Extension error: TypeError: browserType.extension.sendMessage is not a function moz-extension://bf52cf95-9bd9-467d-9725-f0edf7131186/devtools-panel/devtools.js 1
+[[Exception stack
+openedTab@moz-extension://bf52cf95-9bd9-467d-9725-f0edf7131186/devtools-panel/devtools.js:1:422
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2544:39
+]]
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.sys.mjs:23:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.sys.mjs:43:19
+loadURI@resource://gre/modules/RemoteWebNavigation.jsm:84:56
+loadURI/<@chrome://global/content/elements/browser-custom-element.js:826:28
+_wrapURIChangeCall@chrome://global/content/elements/browser-custom-element.js:751:9
+loadURI@chrome://global/content/elements/browser-custom-element.js:825:12
+createBrowserElement@chrome://browser/content/parent/ext-devtools-panels.js:88:18
+JavaScript error: moz-extension://bf52cf95-9bd9-467d-9725-f0edf7131186/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://bf52cf95-9bd9-467d-9725-f0edf7131186/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://bf52cf95-9bd9-467d-9725-f0edf7131186/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://bf52cf95-9bd9-467d-9725-f0edf7131186/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://bf52cf95-9bd9-467d-9725-f0edf7131186/extension/background.js, line 9: Error: Promised response from onMessage listener went out of scope
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:58476
+1678514418353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileAaUHSe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678514418898	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678514418907	Marionette	INFO	Listening on port 58484
+Read port: 58484
+WebDriver BiDi listening on ws://127.0.0.1:58477
+1678514419215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileAaUHSe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58477/devtools/browser/5951dddd-a8d6-4adf-80e5-56290fa5a1c8
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+1678514628060	Marionette	INFO	Stopped listening on port 58484
+Dynamically enable window occlusion 1
+[Parent 20240, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:583
+1678514634857	geckodriver	INFO	Listening on 127.0.0.1:58688
+1678514637881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58689" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilezd005z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678514638685	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678514638696	Marionette	INFO	Listening on port 58696
+Read port: 58696
+WebDriver BiDi listening on ws://127.0.0.1:58689
+1678514639133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilezd005z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58689/devtools/browser/c3febd4f-de91-4fe4-a3cd-26deb2d6d258
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1678542925711	geckodriver	INFO	Listening on 127.0.0.1:51193
+1678542928668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51194" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile6mjR6y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678542929639	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678542929653	Marionette	INFO	Listening on port 51202
+Read port: 51202
+WebDriver BiDi listening on ws://127.0.0.1:51194
+1678542930138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile6mjR6y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51194/devtools/browser/f542fedb-8933-44b5-824b-5ba9cd3c5604
+JavaScript error: , line 0: uncaught exception: Object
+1678543015088	geckodriver	INFO	Listening on 127.0.0.1:51315
+1678543017908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51316" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileBdBkSN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678543018421	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678543018431	Marionette	INFO	Listening on port 51323
+Read port: 51323
+WebDriver BiDi listening on ws://127.0.0.1:51316
+1678543018736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileBdBkSN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51316/devtools/browser/3f85ec2e-3659-4f04-9a4c-9f68d9f6e66f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+1678544191818	geckodriver	INFO	Listening on 127.0.0.1:52086
+1678544194680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileTSWcjx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678544195565	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678544195574	Marionette	INFO	Listening on port 52094
+Read port: 52094
+WebDriver BiDi listening on ws://127.0.0.1:52087
+1678544195861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileTSWcjx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52087/devtools/browser/2254abbe-8f31-4d64-a277-d8cc52054b60
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 194: TypeError: rule is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1678544957344	geckodriver	INFO	Listening on 127.0.0.1:52360
+1678544960393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52361" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileYfxLOg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678544960860	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678544960874	Marionette	INFO	Listening on port 52368
+Read port: 52368
+WebDriver BiDi listening on ws://127.0.0.1:52361
+1678544961140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileYfxLOg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52361/devtools/browser/2d53b21d-4fc9-4475-a86e-fabbb71f1999
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1678545087742	geckodriver	INFO	Listening on 127.0.0.1:52443
+1678545090793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52444" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile5SIiwX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678545091253	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678545091263	Marionette	INFO	Listening on port 52451
+Read port: 52451
+WebDriver BiDi listening on ws://127.0.0.1:52444
+1678545091530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofile5SIiwX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52444/devtools/browser/165d9b1b-faa3-4f97-8b39-674364f9707e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1678545150547	geckodriver	INFO	Listening on 127.0.0.1:52515
+1678545153582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52516" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileYJMGch"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678545154428	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678545154437	Marionette	INFO	Listening on port 52526
+Read port: 52526
+WebDriver BiDi listening on ws://127.0.0.1:52516
+1678545154736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileYJMGch\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52516/devtools/browser/9024b1d1-98fa-4355-bf3a-6a578833c899
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1678545626175	geckodriver	INFO	Listening on 127.0.0.1:52747
+1678545629198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52748" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileRnPtvj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678545630012	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678545630024	Marionette	INFO	Listening on port 52755
+Read port: 52755
+WebDriver BiDi listening on ws://127.0.0.1:52748
+1678545630316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileRnPtvj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52748/devtools/browser/0a34d8d1-e0ac-4e1a-bfb2-9b7415940fd1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Unable to find target with innerWindowId:6442450952"
+console.error: "Unable to find target with innerWindowId:6442450952"
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 200: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 200: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 200: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 194: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 194: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 194: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 194: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 194: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 194: TypeError: rule is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:52989
+1678546352801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52990" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilepLQVXy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678546353250	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678546353262	Marionette	INFO	Listening on port 52997
+Read port: 52997
+WebDriver BiDi listening on ws://127.0.0.1:52990
+1678546353539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilepLQVXy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52990/devtools/browser/05c228f4-e7a5-468a-a7ab-089febc6a069
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1678546414123	geckodriver	INFO	Listening on 127.0.0.1:53061
+1678546417169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53062" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilefjhpZx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678546417630	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678546417639	Marionette	INFO	Listening on port 53072
+Read port: 53072
+WebDriver BiDi listening on ws://127.0.0.1:53062
+1678546417917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofilefjhpZx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53062/devtools/browser/7670c68d-5c57-437f-90c5-ac7e56286f0a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1678546508278	geckodriver	INFO	Listening on 127.0.0.1:53185
+1678546511331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53186" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileI1zA0f"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678546511779	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678546511786	Marionette	INFO	Listening on port 53201
+Read port: 53201
+WebDriver BiDi listening on ws://127.0.0.1:53186
+1678546512062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileI1zA0f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53186/devtools/browser/3a629f84-258f-4501-9b52-fef8c88091e6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+1678546611761	geckodriver	INFO	Listening on 127.0.0.1:53300
+1678546614804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileKvpLXD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678546615319	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678546615327	Marionette	INFO	Listening on port 53308
+Read port: 53308
+WebDriver BiDi listening on ws://127.0.0.1:53301
+1678546615598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadhi\\AppData\\Local\\Temp\\rust_mozprofileKvpLXD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53301/devtools/browser/46ba9157-fa95-428d-8ce1-58a76693875a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
